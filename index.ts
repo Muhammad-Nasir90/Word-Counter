@@ -31,3 +31,4 @@ console.log(words)
 
 console.log(`your sentence word count is: ${words.length}`)
 
+console.log(`  THE END  `)
